@@ -5,7 +5,7 @@
 // @author       Janik313 [github.com/Janik313]
 // @match	     www.youtube.com/*
 // @grant        none
-// @namespace    https://github.com/Janik313/
+// @namespace    https://github.com/Janik313/YoutubeAdSkipper/raw/master/YouTube%20Ad%20skipper.user.js
 // ==/UserScript==
 
 (function() {
